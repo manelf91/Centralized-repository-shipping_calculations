@@ -1,6 +1,5 @@
  # Here is a new update by manelf91
-# Here is a another update by manelf91
-
+ 
  # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
